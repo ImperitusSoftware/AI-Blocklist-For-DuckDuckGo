@@ -1,11 +1,11 @@
-! Title: NUCLEAR AI Blocklist
+! Title: NUCLEAR AI Blocklist for DuckDuckGo
 ! Expires: 1 day
-! Description: A blocklist of sites that contain a mix of both AI generated content and authentic imagery, for uBlock Origin.
-! Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+! Description: A blocklist of sites that contain a mix of both AI generated content and authentic imagery, built for use on DuckDuckGo.
+! Homepage: https://github.com/ImperitusSoftware/AI-Blocklist-For-DuckDuckGo
 !
-! Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
-! PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
-! Feel free to fork and submit pr's if you find more sites
+! Issues: https://github.com/ImperitusSoftware/AI-Blocklist-For-DuckDuckGo/issues
+! PRs: https://github.com/ImperitusSoftware/AI-Blocklist-For-DuckDuckGo/pulls
+! Please fork the original repository by Laylavish to add more sites. This repo will then add new sites from upstream.
 
 ! //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork)
 

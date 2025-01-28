@@ -1,11 +1,11 @@
-! Title: Huge AI Blocklist
+! Title: AI Blocklist for DuckDuckGo
 ! Expires: 1 day
-! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
-! Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+! Description: A huge blocklist of sites that contain AI generated content, built for use on DuckDuckGo.
+! Homepage: https://github.com/ImperitusSoftware/AI-Blocklist-For-DuckDuckGo
 !
-! Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
-! PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
-! Feel free to fork and submit pr's if you find more sites
+! Issues: https://github.com/ImperitusSoftware/AI-Blocklist-For-DuckDuckGo/issues
+! PRs: https://github.com/ImperitusSoftware/AI-Blocklist-For-DuckDuckGo/pulls
+! Please fork the original repository by Laylavish to add more sites. This repo will then add new sites from upstream.
 
 ! HAPPY PRIDE MONTH
 
