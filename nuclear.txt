@@ -1,0 +1,82 @@
+! Title: NUCLEAR AI Blocklist
+! Expires: 1 day
+! Description: A blocklist of sites that contain a mix of both AI generated content and authentic imagery, for uBlock Origin.
+! Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+!
+! Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
+! PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
+! Feel free to fork and submit pr's if you find more sites
+
+! //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork)
+
+duckduckgo.com##:has(a[href*="stock.adobe.com"])
+duckduckgo.com##:has(a[href*="designbundles.net"])
+duckduckgo.com##:has(a[href*="freepixel.com"])
+duckduckgo.com##:has(a[href*="artmajeur.com"])
+duckduckgo.com##:has(a[href*="artpal.com"])
+duckduckgo.com##:has(a[href*="freepik.com"])
+duckduckgo.com##:has(a[href*="freepik.es"])
+duckduckgo.com##:has(a[href*="shutterstock.com"])
+duckduckgo.com##:has(a[href*="pixtastock.com"])
+duckduckgo.com##:has(a[href*="redbubble.com"])
+duckduckgo.com##:has(a[href*="3tdesign.edu.vn"])
+duckduckgo.com##:has(a[href*="artstation.com"])
+duckduckgo.com##:has(a[href*="deviantart.com"])
+duckduckgo.com##:has(a[href*="alamy.com"])
+duckduckgo.com##:has(a[href*="vecteezy.com"])
+duckduckgo.com##:has(a[href*="pixabay.com"])
+duckduckgo.com##:has(a[href*="dreamstime.com"])
+duckduckgo.com##:has(a[href*="pngtree.com"])
+duckduckgo.com##:has(a[href*="peakpx.com.com"])
+duckduckgo.com##:has(a[href*="lunarmimi.net"])
+duckduckgo.com##:has(a[href*="displate.com"])
+duckduckgo.com##:has(a[href*="inprnt.com"])
+duckduckgo.com##:has(a[href*="europosters.eu"])
+duckduckgo.com##:has(a[href*="pinterest.com"])
+duckduckgo.com##:has(a[href*="etsy.com"])
+duckduckgo.com##:has(a[href*="123rf.com"])
+duckduckgo.com##:has(a[href*="creativefabrica.com"])
+duckduckgo.com##:has(a[href*="vanasplus.com"])
+duckduckgo.com##:has(a[href*="downgraf.com"])
+duckduckgo.com##:has(a[href*="pinterest.com"])
+duckduckgo.com##:has(a[href*="pinterest.com/Sereneshell"])
+duckduckgo.com##:has(a[href*="uxdesign.cc"])
+duckduckgo.com##:has(a[href*="geekysweetie.com"])
+duckduckgo.com##:has(a[href*="reddit.com/r/100Kanojo"])
+duckduckgo.com##:has(a[href*="medium.com"])
+duckduckgo.com##:has(a[href*="imgchest.com"])
+duckduckgo.com##:has(a[href*="pixels.com"])
+duckduckgo.com##:has(a[href*="gachax.com/anime"])
+duckduckgo.com##:has(a[href*="gettywallpapers.com"])
+duckduckgo.com##:has(a[href*="abposters.com"])
+duckduckgo.com##:has(a[href*="posterlounge.com"])
+duckduckgo.com##:has(a[href*="uhdpaper.com"])
+duckduckgo.com##:has(a[href*="wallhere.com"])
+duckduckgo.com##:has(a[href*="thehungryjpeg.com"])
+duckduckgo.com##:has(a[href*="thirstymag.com"])
+duckduckgo.com##:has(a[href*="kemono.su"])
+duckduckgo.com##:has(a[href*="kemono.party"])
+duckduckgo.com##:has(a[href*="alphacoders.com"])
+duckduckgo.com##:has(a[href*="rollingpress.co.ke"])
+duckduckgo.com##:has(a[href*="ukposters.co.uk"])
+duckduckgo.com##:has(a[href*="redbrokoly.com"])
+duckduckgo.com##:has(a[href*="nbcsport.co.uk"])
+
+
+! // Content Aggregators/SEO spam
+duckduckgo.com##:has(a[href*="tnhelearning.edu.vn"])
+
+! // Things that use Anthropic, Open AI, etc api/backend/models, but its usage is abnormal to that of gAI image or chat models
+duckduckgo.com##:has(a[href*="talpasearch.com"])
+
+! // Subreddits
+duckduckgo.com##:has(a[href*="reddit.com/r/CatgirlSFW"])
+duckduckgo.com##:has(a[href*="reddit.com/r/MildFemboys"])
+duckduckgo.com##:has(a[href*="100Kanojo"])
+
+! // Pinterest
+duckduckgo.com##:has(a[href*="pinterest.com"])
+duckduckgo.com##:has(a[href*="pinterest.com/Sereneshell"])
+
+! // Alternate App Stores
+duckduckgo.com##:has(a[href*="cafebazaar.ir"])
